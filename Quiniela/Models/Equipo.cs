@@ -1,5 +1,6 @@
 ﻿namespace Quiniela.Models
 {
+    //Modelo Equipo
     public class Equipo
     {
         public int Id { get; set; }
