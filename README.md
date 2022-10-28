@@ -2,4 +2,4 @@
 Proyecto calidad de software
 Jenkis
 SonarQube
-Slack
+Slack Notificaciones
